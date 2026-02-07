@@ -1,0 +1,23 @@
+-- CREATE TABLE student(
+-- 	first_name varchar(100),
+-- 	last_name varchar(100),
+-- 	age int,
+-- 	roll_number int,
+-- 	id int,
+-- 	address varchar(250),
+-- 	phone_number int,
+-- 	language int,
+-- 	science int,
+-- 	maths int);
+	  
+	--select * from student;
+	--alter table student drop column science;
+	--alter table student drop column maths;
+	--alter table student drop column language;
+	--alter table student drop column phone_number;
+	--insert into student(first_name,last_name,age,roll_number,id,address)
+	--values ('ram','prakash',16,109,432,'t.nagar');
+	select * from student;
+	--truncate table student;
+	--insert into student(first_name,last_name,age,roll_number,id,address)
+	--values('sita','lakshmi',14,346,234,'thiruverkadu');
